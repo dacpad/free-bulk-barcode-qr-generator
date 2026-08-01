@@ -1,4 +1,4 @@
-# 🚀 dacpad-free-bulk-barcode-qr-generator
+# 🚀 free-bulk-barcode-qr-generator
 
 A completely free, lightning-fast tool to generate single and bulk Barcodes and QR Codes directly in your browser. 
 
