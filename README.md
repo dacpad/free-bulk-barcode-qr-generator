@@ -10,6 +10,8 @@ A completely free, lightning-fast tool to generate single and bulk Barcodes and 
 * **100% Offline & Secure:** No backend API or server is used. Everything runs locally in your browser ensuring complete data privacy.
 * **No Registration Required:** Completely free to use with zero logins or sign-ups.
 
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f045cf6d-ca6b-4bc0-8eae-349689d79568" />
+
 ### 🛠️ Tech Stack
 * HTML5
 * CSS3
